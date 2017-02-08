@@ -1,0 +1,12 @@
+h2.intro {
+    color: navy;
+    font-family: Old English;
+    margin-left: 20px;
+}
+img.intro{
+	margin: 30px;
+	padding-left: 30px;
+}
+p.intro{
+	background-color: yellow;
+}
